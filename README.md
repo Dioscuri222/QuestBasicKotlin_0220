@@ -12,3 +12,6 @@
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 171448" src="https://github.com/user-attachments/assets/492ae5c9-fe67-4f6a-90f0-5de2c07c4d10" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 171601" src="https://github.com/user-attachments/assets/ff73810f-8cfa-46b7-933d-e36ba304764a" />
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 171639" src="https://github.com/user-attachments/assets/a56a9bd8-cab1-45e8-a1db-5222bae4941f" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 171805" src="https://github.com/user-attachments/assets/06166c10-7666-40fc-9c01-2303249d31b0" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 171836" src="https://github.com/user-attachments/assets/9fbb0f7a-deea-4f00-bcc6-951fe4aee066" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 171853" src="https://github.com/user-attachments/assets/55845b35-acc4-452e-ab70-55fd40ab3ceb" />
